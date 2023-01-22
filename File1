@@ -1,0 +1,6 @@
+cognome = input("Inserire cognome")
+nome = input("Inserire nome")
+if not cognome=="":  
+    print(cognome)
+if not nome=="":
+    print(nome)
