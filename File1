@@ -4,3 +4,4 @@ if not cognome=="":
     print(cognome)
 if not nome=="":
     print(nome)
+print("FINE")
