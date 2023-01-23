@@ -5,3 +5,4 @@ if not cognome=="":
 if not nome=="":
     print(nome)
 print("FINE")
+print("Arrivederci!")
